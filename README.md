@@ -1,6 +1,4 @@
-# Readme #
-
-## Spumoni ##
+# Spumoni #
 
 Inpsired by an exercise from page 220 of *iOS Auto Layout Demystified, 2ed,* by Erica Sadun. The project uses Auto Layout to configure three views in a subview. Each view is equal in size to the other, and the three together fill out the entire super view. The effect created looks like a slice of spumoni ice cream.
 

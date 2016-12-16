@@ -31,7 +31,7 @@
     self = [super initWithFrame:frame];
     
     if (self) {
-        self.constraints = [NSMutableArray array];
+        _constraints = [[NSMutableArray alloc] init];
     }
     
     return self;
